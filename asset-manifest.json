@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "//learnictonline.me/static/css/main.cc94f75b.chunk.css",
+    "main.js": "//learnictonline.me/static/js/main.51bae222.chunk.js",
+    "main.js.map": "//learnictonline.me/static/js/main.51bae222.chunk.js.map",
+    "runtime-main.js": "//learnictonline.me/static/js/runtime-main.0bb02a94.js",
+    "runtime-main.js.map": "//learnictonline.me/static/js/runtime-main.0bb02a94.js.map",
+    "static/css/2.14351861.chunk.css": "//learnictonline.me/static/css/2.14351861.chunk.css",
+    "static/js/2.fa9d8640.chunk.js": "//learnictonline.me/static/js/2.fa9d8640.chunk.js",
+    "static/js/2.fa9d8640.chunk.js.map": "//learnictonline.me/static/js/2.fa9d8640.chunk.js.map",
+    "index.html": "//learnictonline.me/index.html",
+    "precache-manifest.1ed0860f4cc90ed32f5f72e039cdf441.js": "//learnictonline.me/precache-manifest.1ed0860f4cc90ed32f5f72e039cdf441.js",
+    "service-worker.js": "//learnictonline.me/service-worker.js",
+    "static/css/2.14351861.chunk.css.map": "//learnictonline.me/static/css/2.14351861.chunk.css.map",
+    "static/css/main.cc94f75b.chunk.css.map": "//learnictonline.me/static/css/main.cc94f75b.chunk.css.map",
+    "static/js/2.fa9d8640.chunk.js.LICENSE": "//learnictonline.me/static/js/2.fa9d8640.chunk.js.LICENSE",
+    "static/media/Hello.jpg": "//learnictonline.me/static/media/Hello.ce9b13e5.jpg",
+    "static/media/Pencil.jpg": "//learnictonline.me/static/media/Pencil.38828042.jpg",
+    "static/media/ishanka.jpg": "//learnictonline.me/static/media/ishanka.ab741695.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb02a94.js",
+    "static/css/2.14351861.chunk.css",
+    "static/js/2.fa9d8640.chunk.js",
+    "static/css/main.cc94f75b.chunk.css",
+    "static/js/main.51bae222.chunk.js"
+  ]
+}
